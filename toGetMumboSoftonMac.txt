@@ -33,7 +33,7 @@ at the bottom right corner, under "Sharing & Permissions:", you will find a lock
 and if you have a password enter it.
 
 2.6)Once that is done you have to go to the terminal and make your way to the file youve created in step 2.3 (with "cd" command).
-to make it an executable you type: chmod a+x PS_MGMT
+to make it an executable you type: chmod a+x PS_MGMT.command
 
 2.7) now go the PS_MGMT.command file and right click(CTRL + click).
 
