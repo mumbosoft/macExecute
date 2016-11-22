@@ -18,7 +18,7 @@ Now that we've got the software and its time to get it running.
 
 #!/bin/bash
 
-sudo java -jar ~/[wherever you placed it in step 1]/PS_MGMT/macExecute/PS_MGMT/app/PS_MGMT.jar
+sudo java -jar ~/[wherever you placed it in step 1 without these brackets]/PS_MGMT/macExecute/PS_MGMT/app/PS_MGMT.jar
 
 
 2.2)When the script is written we now need to make it "plain text"
